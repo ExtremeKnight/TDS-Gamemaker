@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"time_for_adventure",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":40.045673,
+  "name":"time_for_adventure",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"time_for_adventure.mp3",
+  "type":0,
+  "volume":1.0,
+}

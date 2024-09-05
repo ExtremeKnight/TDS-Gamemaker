@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"grid_place_meeting",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"grid_place_meeting",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
